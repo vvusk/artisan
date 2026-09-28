@@ -1,6 +1,9 @@
 # 📄 ArTiSan: Archetype-Aware TimeSformer for Fast Glaucoma Progression
 Official repository for the paper that was presented in 13th OMIA workshop (2026).
 
+Abstract:
+Glaucoma is a leading cause of irreversible vision loss, and accurate detection of this disease's progression from longitudinal visual field (VF) data remains a longstanding challenge. Glaucoma progression often manifests through characteristic patterns of VF loss. Archetypal Analysis represents each VF as a convex combination of learned archetypal defect patterns. In prior work, these archetypes were shown to correspond to clinically interpretable patterns of VF loss. In this study, we leverage these representations as complementary information for glaucoma progression detection. Specifically, archetypal weight vectors are incorporated as additional tokens within a TimeSformer-based spatiotemporal attention framework. Experiments on the UWHVF and LEI-SFD datasets show improvements over the baseline model in several classification metrics, particularly at moderate-to-fast progression thresholds. These findings provide preliminary evidence that archetypal representations offer complementary pattern-level information to spatiotemporal VF features, with the clearest benefit observed in the fast-progressing cases.
+
 Authors: Viska Mutiawani, Patrick Avelino Kodrat, Ghulam Mubashar Hassan, Naeha Sharif 
 > Presented in *International Workshop on Ophthalmic Medical Image Analysis*, 2026.  
 > [Link to paper](paper/27_final.pdf)]
