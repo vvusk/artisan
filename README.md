@@ -77,7 +77,7 @@ dataset/
 ## 📦 Framework
 
 ### Methodology to find generalized VF patterns
-![Methodology to find generalized VF patterns](images/methodology.drawio.png)
+![Methodology to find generalized VF patterns](images/model-architecture.drawio.png)
 
 
 ---
