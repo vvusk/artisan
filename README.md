@@ -3,7 +3,7 @@ Official repository for the paper that was presented in 13th OMIA workshop (2026
 
 Authors: Viska Mutiawani, Patrick Avelino Kodrat, Ghulam Mubashar Hassan, Naeha Sharif 
 > Presented in *International Workshop on Ophthalmic Medical Image Analysis*, 2026.  
-> [Link to paper](https://openreview.net/forum?id=i9rV9aj1Tp)]
+> [Link to paper](paper/27_final.pdf)]
 
 ---
 
